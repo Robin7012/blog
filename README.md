@@ -13,5 +13,10 @@ xx
 =======
 qqqqqq
 VBBBBBBBBBBB
+<<<<<<< HEAD
 XXXXXXXXXX
 >>>>>>> 073b3377497b7d9fab926bdacf83fa9f69b196b0
+=======
+XXXXXXXXX
+XWWWWWWWWWWWWWWWW
+>>>>>>> refs/remotes/origin/master
